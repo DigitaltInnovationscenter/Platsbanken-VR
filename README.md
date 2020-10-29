@@ -17,7 +17,6 @@ Instructions
 9. Bake the scene VirtualOffice1 (Lighting - Generate Lighting)
 9. Add your Jobtechdev API-key to ApplicationManager JobTechAPIKey
 
-API:s
 To use the jobtechdev.se API:s you need your own API-key. The API-key can be requested here: (https://apirequest.jobtechdev.se/)
 
 Contact: innovationscenter@arbetsformedlingen.se
