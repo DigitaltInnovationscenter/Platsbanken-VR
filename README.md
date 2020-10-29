@@ -13,7 +13,8 @@ Instructions
 5. Upgrade materials to URP (Edit - Render Pipeline - Universal Render Pipeline - Upgrader Project Materials to UniversalRP Materials)
 6. Add Sci-Fi Buttons and Panels Pack from Package manager (cost - optional but needed for visuals)
 7. Add Office Interior Archviz from Package manager (cost - optional but needed for room environment)
-8. Add your Jobtechdev API-key to ApplicationManager JobTechAPIKey
+8. Upgrade materials to URP (Edit - Render Pipeline - Universal Render Pipeline - Upgrader Project Materials to UniversalRP Materials)
+9. Add your Jobtechdev API-key to ApplicationManager JobTechAPIKey
 
 API:s
 To use the jobtechdev.se API:s you need your own API-key. The API-key can be requested here: https://apirequest.jobtechdev.se/
