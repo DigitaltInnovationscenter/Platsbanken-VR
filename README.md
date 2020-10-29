@@ -2,7 +2,7 @@
 
 This is a prototype from Innovation center at Arbetsförmedlingen.
 The purpuse of the prototype is to demonstrate and test new ways of access and navigate data assets in VR (in this case data from the jobtechdev.com API:s
-about the Swedish labour market.
+about the Swedish labour market).
 
 Instructions
 1. Clone repository to your local machine
