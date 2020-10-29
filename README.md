@@ -14,6 +14,7 @@ Instructions
 6. Add Sci-Fi Buttons and Panels Pack from Package manager (cost - optional but needed for visuals)
 7. Add Office Interior Archviz from Package manager (cost - optional but needed for room environment)
 8. Upgrade materials to URP (Edit - Render Pipeline - Universal Render Pipeline - Upgrader Project Materials to UniversalRP Materials)
+9. Bake the scene VirtualOffice1 (Lighting - Generate Lighting)
 9. Add your Jobtechdev API-key to ApplicationManager JobTechAPIKey
 
 API:s
