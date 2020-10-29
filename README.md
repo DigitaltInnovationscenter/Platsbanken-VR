@@ -18,8 +18,9 @@ Instructions
 9. Add your Jobtechdev API-key to ApplicationManager JobTechAPIKey
 
 API:s
-To use the jobtechdev.se API:s you need your own API-key. The API-key can be requested here: https://apirequest.jobtechdev.se/
+To use the jobtechdev.se API:s you need your own API-key. The API-key can be requested here: (https://apirequest.jobtechdev.se/)
 
 Contact: innovationscenter@arbetsformedlingen.se
+
 www.digitaltinnovationscenter.se
 
